@@ -1,4 +1,4 @@
-Scikit-learn Tutorial (3/6/2017)
+Scikit-learn Tutorial (4/10/2017)
 
 
 This repository consist codes and documents for the Scikit-learn library tutorial for Machine Learning modeling onto real datasets.
